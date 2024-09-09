@@ -24,6 +24,4 @@ Cursando ciências da computação.
 [![ETL Santander](https://github-readme-stats.vercel.app/api/pin/?username=douglas-oc&repo=etl_santander&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=bf0000&text_color=FFF)](https://github.com/Douglas-oc/etl_santander)
 
 
-### Meus Principais Artigos na DIO
-[Loading...]
 ---
