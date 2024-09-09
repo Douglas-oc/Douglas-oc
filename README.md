@@ -1,5 +1,5 @@
 # Douglas 
-Cursando ciências da computação. 
+Cursando Ciência da computação. 
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/douglasdeoliveira0420)
