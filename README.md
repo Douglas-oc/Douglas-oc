@@ -17,7 +17,7 @@ Cursando Ciência da computação.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Douglas-oc&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=bf0000&text_color=FFF&hide_title=true&hide=stars)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Douglas-oc&layout=compact&bg_color=000&border_color=30A3DC&title_color=bf0000&text_color=FFF)
 
-### Meus Principais Desafios de Projeto DIO
+### Meus Projetos Principais
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=douglas-oc&repo=landing-page-mundo-invertido&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=bf0000&text_color=FFF)](https://github.com/Douglas-oc/landing-page-mundo-invertido)
 [![Detona Ralph Web](https://github-readme-stats.vercel.app/api/pin/?username=douglas-oc&repo=jogo-detona-ralph&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=bf0000&text_color=FFF)](https://github.com/Douglas-oc/jogo-detona-ralph)
 [![Jogo da Memória](https://github-readme-stats.vercel.app/api/pin/?username=douglas-oc&repo=jogo-da-memoria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=ff0000&title_color=bf0000&text_color=FFF)](https://github.com/Douglas-oc/jogo-da-memoria)
