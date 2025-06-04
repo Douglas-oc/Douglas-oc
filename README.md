@@ -1,9 +1,9 @@
 # 👋 Seja bem-vindo(a) ao meu perfil no GitHub!
 
-🎓 Estudante de **Ciência da Computação**.  
-💻 Apaixonado por desenvolvimento, tecnologia e aprendizado contínuo.  
-🚀 Em busca de oportunidades como estagiário ou desenvolvedor júnior para evoluir na área de tecnologia. <br><br>
+🎓  Aqui você encontra meus projetos mais recentes desenvolvidos durante estudos e desafios práticos.  
+Busco aplicar meus conhecimentos em soluções simples, funcionais e com foco no aprendizado constante.
 
+Sinta-se à vontade para explorar, contribuir ou entrar em contato! 
 
 ---
 
