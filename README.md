@@ -43,9 +43,9 @@ Sinta-se à vontade para explorar, contribuir ou entrar em contato!
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Douglas-oc&layout=compact&theme=transparent&title_color=d8d6d6&text_color=d8d6d6) 
 <br>
-<!-- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=douglas-oc&theme=transparent&locale=pt_BR&mode=weekly&fire=FB8C00&ring=FB8C00&currStreakNum=FB8C00&stroke=D8D6D6&border=D8D6D6&sideNums=D8D6D6&currStreakLabel=D8D6D6&sideLabels=D8D6D6&dates=FB8C00)](https://git.io/streak-stats)
--->
+
 </div>
 
 ---
